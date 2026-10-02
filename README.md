@@ -1,2 +1,2 @@
 ﻿# Classweb
-Simple HTMl Concepts 
+Simple HTML Concepts 
